@@ -66,7 +66,6 @@
 
   <ItemGroup>
     <FullMetaPackagePackageReference Include="@(MetaPackagePackageReference)" />
-    <FullMetaPackagePackageReference Include="@(HostingStartupPackageReference)" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Antiforgery" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Authentication" />
     <FullMetaPackagePackageReference Include="Microsoft.AspNetCore.Authentication.Abstractions" />
