@@ -12,7 +12,7 @@
     <MicrosoftAspNetCoreRoutingPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreRoutingPackageVersion>
     <MicrosoftAspNetCoreServerIISIntegrationPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreServerIISIntegrationPackageVersion>
     <MicrosoftAspNetCoreServerIISPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreServerIISPackageVersion>
-    <MicrosoftAspNetCoreServerIntegrationTestingIISPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreServerIntegrationTestingIISPackageVersion>
+    <MicrosoftAspNetCoreServerIntegrationTestingIISPackageVersion>2.2.0-a-preview1-package-shim-17093</MicrosoftAspNetCoreServerIntegrationTestingIISPackageVersion>
     <MicrosoftAspNetCoreServerIntegrationTestingPackageVersion>0.6.0-preview1-34823</MicrosoftAspNetCoreServerIntegrationTestingPackageVersion>
     <MicrosoftAspNetCoreServerKestrelHttpsPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreServerKestrelHttpsPackageVersion>
     <MicrosoftAspNetCoreServerKestrelPackageVersion>2.2.0-preview1-34823</MicrosoftAspNetCoreServerKestrelPackageVersion>
